@@ -7,3 +7,8 @@
 - Search for metal-poor disk stars (Frebel, Yong, Roederer catalogs)
 - Compute stellar parameters photometrically and compare to spectroscopic determinations
 - Compare density of stars on and off the great MW plane
+
+
+Papers already written:
+- Empirical planet radii and masses: http://arxiv.org/abs/1609.04389
+- Rotation and proper motion of LMC and SMC: http://arxiv.org/abs/1609.04395
