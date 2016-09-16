@@ -14,3 +14,8 @@ The unwise (http://unwise.me/) catalog has been downloaded to `/ly-alpha/data/al
 The (much smaller) spectroscopic catalog in unwise is `specmatch-dr10.fits`
 
 There are also catalogs matched to SDSS DR8, WISE, 2MASS, and APASS withhttp://cdsxmatch.u-strasbg.fr/xmatch
+
+
+
+There are some important caveats in the Gaia data.
+You should definitely read these to see if your science depends on this: http://www.cosmos.esa.int/web/gaia/dr1
