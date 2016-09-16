@@ -19,3 +19,8 @@ There are also catalogs matched to SDSS DR8, WISE, 2MASS, and APASS withhttp://c
 
 There are some important caveats in the Gaia data.
 You should definitely read these to see if your science depends on this: http://www.cosmos.esa.int/web/gaia/dr1
+
+When using `gaia_tools`, you can set your environment variables, for example:
+```
+export GAIA_TOOLS_DATA=/Users/alexji/Gaia
+```
