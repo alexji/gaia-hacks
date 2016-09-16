@@ -30,6 +30,9 @@ if __name__=="__main__":
     fig1 = hp.mollview(h,title="TGAS Density Galactic")
     
     # Velocity map
+    tgas_good = rd.load_tgas_goodastrometry()
+    #pm_quality_cut = np.logical_and(tgas[""]
+
     #indices = np.digitize(tgas_hp_galactic, hpbins)
 
     #theta,phi = lb_to_thetaphi(tgas["ra"],tgas["dec"])
