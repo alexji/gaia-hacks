@@ -13,7 +13,7 @@ If you want the full point source catalog (343G), `/ly-alpha/data/alexji/Gaia/Ga
 The unwise (http://unwise.me/) catalog has been downloaded to `/ly-alpha/data/alexji/SDSS/dr10`. This matches WISE photometry to every SDSS photometric object in the `pobj` catalog.
 The (much smaller) spectroscopic catalog in unwise is `specmatch-dr10.fits`
 
-There are also catalogs matched to SDSS DR8, WISE, 2MASS, and APASS withhttp://cdsxmatch.u-strasbg.fr/xmatch
+There are also catalogs matched to SDSS DR8, WISE, 2MASS, and APASS with http://cdsxmatch.u-strasbg.fr/xmatch
 
 
 
